@@ -47,7 +47,9 @@ stream before sending to the fluvio cluster. To take advantage of these you shou
 commandline arguments of:
 * `--map`
 * `--filter`
+* `--filter-map`
 * `--arraymap`
+* `--aggregate`
 
 It's recommended to take advantage of the common utilities in the
 [`fluvio-connectors-common`
